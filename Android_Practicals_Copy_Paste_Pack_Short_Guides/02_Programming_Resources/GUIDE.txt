@@ -1,0 +1,11 @@
+PASTE:
+MainActivity.kt -> app > kotlin+java > your package
+activity_main.xml -> app > res > layout
+dimens.xml -> app > res > values
+
+ADD:
+strings_add.xml.txt content -> inside values > strings.xml
+colors_add.xml.txt content -> inside values > colors.xml
+
+CHANGE:
+Use your project's package line in MainActivity.kt.

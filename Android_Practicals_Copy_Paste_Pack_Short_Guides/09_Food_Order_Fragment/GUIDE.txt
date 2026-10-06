@@ -1,0 +1,6 @@
+PASTE:
+MainActivity.kt, OrderFragment.kt -> app > kotlin+java > your package
+activity_main.xml, fragment_order.xml -> app > res > layout
+
+CHANGE:
+Use your project's package line in both .kt files.

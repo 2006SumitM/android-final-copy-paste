@@ -1,0 +1,7 @@
+.kt files        -> app > kotlin+java > your package
+layout .xml      -> app > res > layout
+menu .xml        -> app > res > menu
+strings.xml      -> app > res > values
+colors.xml       -> app > res > values
+dimens.xml       -> app > res > values
+Manifest changes -> app > manifests > AndroidManifest.xml

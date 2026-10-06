@@ -1,0 +1,12 @@
+PASTE:
+MainActivity.kt, SecondActivity.kt -> app > kotlin+java > your package
+activity_main.xml, activity_second.xml -> app > res > layout
+
+ADD:
+AndroidManifest_CHANGE.txt content -> app > manifests > AndroidManifest.xml
+
+CHANGE:
+Use your project's package line in both .kt files.
+
+LOGIN:
+admin / 1234

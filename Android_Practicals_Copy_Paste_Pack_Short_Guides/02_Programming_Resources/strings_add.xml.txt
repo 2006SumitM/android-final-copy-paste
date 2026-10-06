@@ -1,0 +1,4 @@
+ADD these lines INSIDE <resources> ... </resources> in:
+app > res > values > strings.xml
+
+<string name="resource_text">Resources in Android</string>

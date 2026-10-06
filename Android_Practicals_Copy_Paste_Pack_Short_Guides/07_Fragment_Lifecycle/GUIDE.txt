@@ -1,0 +1,6 @@
+PASTE:
+MainActivity.kt, DemoFragment.kt -> app > kotlin+java > your package
+activity_main.xml, fragment_demo.xml -> app > res > layout
+
+CHANGE:
+Use your project's package line in both .kt files.

@@ -1,0 +1,17 @@
+COPY-PASTE PACK
+
+Create new project:
+Android Studio > New Project > Empty Views Activity > Kotlin
+
+Common paths:
+.kt -> app > kotlin+java > your package
+layout XML -> app > res > layout
+menu XML -> app > res > menu
+values XML -> app > res > values
+Manifest -> app > manifests > AndroidManifest.xml
+
+Important:
+In every .kt file, change the first package line to your project's package.
+
+Core KTX:
+Use 1.15.0 instead of 1.15.1.

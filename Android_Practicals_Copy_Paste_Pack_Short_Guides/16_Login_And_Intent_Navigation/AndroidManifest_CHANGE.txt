@@ -1,0 +1,8 @@
+Inside app > manifests > AndroidManifest.xml
+
+ADD this activity INSIDE <application> ... </application>
+and BEFORE MainActivity or after it:
+
+<activity
+    android:name=".SecondActivity"
+    android:exported="false" />

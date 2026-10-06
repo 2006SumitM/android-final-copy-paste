@@ -1,0 +1,7 @@
+PASTE:
+MainActivity.kt -> app > kotlin+java > your package
+activity_main.xml -> app > res > layout
+context_menu.xml, popup_menu.xml -> app > res > menu
+
+CHANGE:
+Use your project's package line.

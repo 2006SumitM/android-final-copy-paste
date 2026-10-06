@@ -1,0 +1,9 @@
+PASTE:
+MainActivity.kt -> app > kotlin+java > your package
+activity_main.xml -> app > res > layout
+
+CHANGE:
+Use your project's package line in MainActivity.kt.
+
+LOGS:
+Logcat -> search ActivityLifecycle

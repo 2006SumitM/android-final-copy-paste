@@ -1,0 +1,10 @@
+PASTE:
+MainActivity.kt -> app > kotlin+java > your package
+activity_main.xml -> app > res > layout
+options_menu.xml -> app > res > menu
+
+CHANGE:
+Use your project's package line.
+
+If menu folder missing:
+res > New > Android Resource Directory > menu

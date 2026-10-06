@@ -1,0 +1,4 @@
+ADD this line INSIDE <resources> ... </resources> in:
+app > res > values > colors.xml
+
+<color name="blue">#3F51B5</color>

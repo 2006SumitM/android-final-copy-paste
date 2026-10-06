@@ -1,0 +1,6 @@
+Inside app > manifests > AndroidManifest.xml
+
+ADD this line DIRECTLY BELOW the opening <manifest ...> tag
+and BEFORE <application>:
+
+<uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
